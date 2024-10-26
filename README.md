@@ -2,7 +2,7 @@
 A reverse file server.  Server can traverse clients filesystem and read, download and upload files to clients.
 
 ## Setup
-Change the HOST variable to your servers IP.  
+In client.py change the HOST variable to your servers IP.  
 Clients will try to connect to the host every 3 seconds.  
 
 ## Usage  
